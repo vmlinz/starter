@@ -19,6 +19,7 @@
     - reattach-to-user-namespace
     - tmux
     - autoconf
+    - automake
     - gettext
     - libevent
     - sqlite
@@ -75,7 +76,6 @@
     - android-studio
     - intellij-idea-ce
     - appcode
-    - java
     - java7
     - transmission
     - transmission-remote-gui
@@ -87,3 +87,4 @@
     - hipchat
     - slack
     - squirrel
+    - menumeters

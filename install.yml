@@ -5,6 +5,11 @@
   - role: osxc.packages
     brew_taps:
     - caskroom/fonts
+    - caskroom/versions
+    - homebrew/binary
+    - homebrew/versions
+    cask_packages:
+    - tuntap
     brew_packages:
     - git
     - zsh
@@ -13,7 +18,72 @@
     - ctags
     - reattach-to-user-namespace
     - tmux
+    - autoconf
+    - gettext
+    - libevent
+    - sqlite
+    - ssh-copy-id
+    - readline
+    - openssl
+    - wget
+    - python
+    - rbenv
+    - rbenv-gem-rehash
+    - ruby-build
+    - node
+    - stunnel
+    - strongswan
+    - shadowsocks-libev
+    - peervpn
+    - openvpn
+    - ctunnel
+    - ngrok
+    - docker
+    - boot2docker
+    - transmission
+    - android-sdk
+    - android-ndk
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
     - macvim
+    - emacs
+    - adium
+    - xquartz
+    - bettertouchtool
+    - google-chrome
+    - google-hangouts
+    - dropbox
+    - firefox
+    - sequel-pro
+    - skype
+    - tower
+    - vagrant
+    - vagrant-manager
+    - transmit
+    - vlc
+    - virtualbox
+    - atom
+    - steam
+    - sublime-text3
+    - alfred
+    - shadowsocksx
+    - copy
+    - proxifier
+    - tunnelblick
+    - xmind
+    - android-studio
+    - intellij-idea-ce
+    - appcode
+    - java
+    - java7
+    - transmission
+    - transmission-remote-gui
+    - mosh
+    - neteasemusic
+    - splayerx
+    - mplayerx
+    - wireshark
+    - hipchat
+    - slack
+    - squirrel

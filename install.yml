@@ -46,10 +46,17 @@
     - android-sdk
     - android-ndk
     cask_packages:
+    - font-inconsolata
     - font-inconsolata-for-powerline
+    - font-source-code-pro
+    - font-source-code-pro-for-powerline
+    - font-source-han-sans
+    - font-source-sans-pro
+    - font-source-serif-pro
     - iterm2
     - macvim
     - emacs
+    - growlnotify
     - adium
     - xquartz
     - bettertouchtool

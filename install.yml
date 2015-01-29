@@ -45,6 +45,10 @@
     - transmission
     - android-sdk
     - android-ndk
+    - xctool
+    - aspell
+    - hunspell
+    - ispell
     cask_packages:
     - font-inconsolata
     - font-inconsolata-for-powerline

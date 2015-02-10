@@ -8,8 +8,6 @@
     - caskroom/versions
     - homebrew/binary
     - homebrew/versions
-    cask_packages:
-    - tuntap
     brew_packages:
     - htop
     - git
@@ -38,7 +36,6 @@
     - shadowsocks-libev
     - dnscrypt-proxy
     - peervpn
-    - openvpn
     - ctunnel
     - ngrok
     - docker
@@ -84,7 +81,7 @@
     - shadowsocksx
     - copy
     - proxifier
-    - tunnelblick
+    - tuntap
     - xmind
     - android-studio
     - intellij-idea-ce
@@ -103,3 +100,4 @@
     - squirrel
     - menumeters
     - dnscrypt
+    - telegram
